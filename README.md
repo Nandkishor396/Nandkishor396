@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Nandkishor396/Nandkishor396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Projects
+- 🌱 I’m currently learning React.Js
+- 💬 Ask me about myself
+- 📫 How to reach me: nand620440@gmail.com
+- 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Github Stats 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nandkishor396&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nandkishor396&theme=discord_old_blurple)
